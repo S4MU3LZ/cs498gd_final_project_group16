@@ -1,2 +1,4 @@
-# cs498gd_final_project_group16
-This is the repository for CS498 GD final project of Group 16
+# Enemy
+Find enemy blueprint in directory Content/enemy. 
+
+I made four enemy and one boss. Feel free to make edit.
